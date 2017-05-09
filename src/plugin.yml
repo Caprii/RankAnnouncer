@@ -1,0 +1,10 @@
+main: com.capri.Core.Main
+name: RankAnnouce
+version: 1.0
+author: Capri
+description: announces the rank of your choosing on or server!
+
+permissions:
+
+    rannouncer.announce:
+        description: Allows users with this permission to be announced!
